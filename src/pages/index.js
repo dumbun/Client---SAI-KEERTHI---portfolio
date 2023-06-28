@@ -72,10 +72,10 @@ export default function Home() {
               UX Designer.
             </h3>
             <p className="text-md py-5 leading-8 text-gray-800 md:text-xl max-w-lg mx-auto dark:text-gray-400">
-              I am HFI Trained UX Designer with over{" "}
+              I am HFI Trained UX Designer with over
               <strong>
-                <span>3 years </span>
-              </strong>{" "}
+                <span> 3 years </span>
+              </strong>
               of Experience and keen interest on creating Human-Centric Designs.
               My passion for Arts ventured me into the Design field where I
               challenge and push myself to the fullest in every project.
@@ -90,7 +90,7 @@ export default function Home() {
             </a>
             <a
               className=""
-              href="https://www.linkedin.com/in/vamshi-krishna-k-b38709155/"
+              href="https://www.linkedin.com/in/sai-keerthi-92820b149/"
             >
               <AiFillLinkedin className="cursor-pointer dark:text-teal-800" />
             </a>
@@ -100,7 +100,7 @@ export default function Home() {
           </div>
           <div className=" relative bg-gradient-to-b rounded-full w-80 h-80 mt-20 mx-auto from-teal-500 overflow-hidden md:h-96 md:w-96">
             <Image
-              alt="Vamshi Krishna"
+              alt="SAI KEERTHI "
               src={dumbun}
               layout="fill"
               objectFit="cover"
@@ -127,7 +127,7 @@ export default function Home() {
           <div className="lg:flex gap-10 ">
             <div className=" text-center mb-10 shadow-2xl p10 rounded-xl flex-1 dark:lg:shadow-white ">
               <Image
-                alt="Vamshi Krishna"
+                alt="sai keerthi"
                 src={design}
                 width={100}
                 height={100}
@@ -152,7 +152,7 @@ export default function Home() {
             </div>
             <div className="text-center mb-10 shadow-2xl p10 rounded-xl flex-1 dark:lg:shadow-white">
               <Image
-                alt="Vamshi Krishna"
+                alt="sai keerthi"
                 src={code}
                 width={100}
                 height={100}
@@ -169,7 +169,7 @@ export default function Home() {
             </div>
             <div className="text-center mb-10 shadow-2xl p10 rounded-xl flex-1 dark:lg:shadow-white">
               <Image
-                alt="Vamshi Krishna"
+                alt="sai keerthi"
                 src={consulting}
                 width={100}
                 height={100}
@@ -243,7 +243,7 @@ export default function Home() {
             <div className="basis-1/4 flex-1 ">
               <a href="https://dumbun.github.io/tindog/">
                 <Image
-                  alt="Vamshi Krishna"
+                  alt="sai keerthi"
                   className="rounded-lg object-cover"
                   width={"100%"}
                   height={"100%"}
@@ -255,7 +255,7 @@ export default function Home() {
             <div className="basis-1/4 flex-1">
               <a href="https://dumbun.github.io/Random-Dicee/">
                 <Image
-                  alt="Vamshi Krishna"
+                  alt="sai keerthi"
                   className="rounded-lg object-cover"
                   width={"100%"}
                   height={"100%"}
@@ -267,7 +267,7 @@ export default function Home() {
             <div className="basis-1/4 flex-1">
               <a href="https://dumbun.github.io/Drum-Kit/">
                 <Image
-                  alt="Vamshi Krishna"
+                  alt="sai keerthi"
                   className="rounded-lg object-cover"
                   width={"100%"}
                   height={"100%"}
@@ -279,7 +279,7 @@ export default function Home() {
             <div className="basis-1/4 flex-1">
               <a href="https://dumbun.github.io/Rem-Px-Calculator/">
                 <Image
-                  alt="Vamshi Krishna"
+                  alt="sai keerthi"
                   className="rounded-lg object-cover"
                   width={"100%"}
                   height={"100%"}
@@ -291,7 +291,7 @@ export default function Home() {
             <div className="basis-1/4 flex-1">
               <a href="https://dumbun.github.io/rock-paper-scissors/">
                 <Image
-                  alt="Vamshi Krishna"
+                  alt="sai keerthi"
                   className="rounded-lg object-cover"
                   width={"100%"}
                   height={"100%"}
@@ -303,7 +303,7 @@ export default function Home() {
             <div className="basis-1/4 flex-1">
               <a href="https://dumbun.github.io/SIMON-Game/">
                 <Image
-                  alt="Vamshi Krishna"
+                  alt="sai keerthi"
                   className="rounded-lg object-cover"
                   width={"100%"}
                   height={"100%"}
@@ -315,7 +315,7 @@ export default function Home() {
             <div className="basis-1/4 flex-1">
               <a href="https://dumbun.github.io/first_portfolio/">
                 <Image
-                  alt="Vamshi Krishna"
+                  alt="sai keerthi"
                   className="rounded-lg object-cover"
                   width={"100%"}
                   height={"100%"}
@@ -327,7 +327,7 @@ export default function Home() {
             <div className="basis-1/4 flex-1">
               <a href="https://dumbun.github.io/stop-watch/">
                 <Image
-                  alt="Vamshi Krishna"
+                  alt="sai keerthi"
                   className="rounded-lg object-cover"
                   width={"100%"}
                   height={"100%"}
@@ -339,7 +339,7 @@ export default function Home() {
             <div className="basis-1/4 flex-1">
               <a href="https://dumbun.github.io/Tip-Calculator/">
                 <Image
-                  alt="Vamshi Krishna"
+                  alt="sai keerthi"
                   className="rounded-lg object-cover"
                   width={"100%"}
                   height={"100%"}
@@ -351,7 +351,7 @@ export default function Home() {
             <div className="basis-1/4 flex-1">
               <a href="https://dumbun.github.io/weather-app/">
                 <Image
-                  alt="Vamshi Krishna"
+                  alt="sai keerthi"
                   className="rounded-lg object-cover"
                   width={"100%"}
                   height={"100%"}
@@ -363,7 +363,7 @@ export default function Home() {
             <div className="basis-1/4 flex-1">
               <a href="https://dumbun.github.io/old-site/">
                 <Image
-                  alt="Vamshi Krishna"
+                  alt="sai keerthi"
                   className="rounded-lg object-cover"
                   width={"100%"}
                   height={"100%"}
@@ -375,7 +375,7 @@ export default function Home() {
             <div className="basis-1/4 flex-1">
               <a href="https://bright-lamb-tux.cyclic.app/">
                 <Image
-                  alt="Vamshi Krishna"
+                  alt="sai keerthi"
                   className="rounded-lg object-cover"
                   width={"100%"}
                   height={"100%"}
@@ -387,7 +387,7 @@ export default function Home() {
             <div className="basis-1/4 flex-1 ">
               <a href="https://pinterest-clone-fawn.vercel.app/">
                 <Image
-                  alt="Vamshi Krishna"
+                  alt="sai keerthi"
                   className="rounded-lg object-cover"
                   width={"100%"}
                   height={"100%"}
@@ -401,7 +401,7 @@ export default function Home() {
       </main>
       <footer className="bg-teal-600  mx-auto flex justify-between">
         <h2 className="mx-auto py-2 text-white font-medium md:text-lg">
-          © 2023 Vamshi Krishna.K @ dumbun.xyz
+          © 2023 sai keerthi . VK @ dumbun.xyz
         </h2>
       </footer>
     </div>
