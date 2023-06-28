@@ -24,11 +24,11 @@ a {
 }
 
 span {
+  color: #06787c;
   transition: 0.5s;
 }
 
-span:hover {
-  color: #06787c;
+/* span:hover {
+
   cursor: pointer;
-  font-size: 4rem;
-}
+} */
