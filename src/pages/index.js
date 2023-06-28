@@ -15,7 +15,7 @@ import consulting from "../../public/consulting.png";
 import design from "../../public/design.png";
 import oldTerminalSite from "../../public/old-terminal-site.png";
 import PreviousSiteGif from "../../public/previousSite.gif";
-import dumbun from "../../public/vamshikrishna.png";
+import sai_keerthi from "../../public/sai_keerthi.png";
 import pinterest from "../../public/pinterest-clone.png";
 import web1 from "../../public/web1.png";
 import web2 from "../../public/web2.png";
@@ -98,10 +98,10 @@ export default function Home() {
               <AiFillBehanceCircle className="cursor-pointer dark:text-teal-800" />
             </a>
           </div>
-          <div className=" relative bg-gradient-to-b rounded-full w-80 h-80 mt-20 mx-auto from-teal-500 overflow-hidden md:h-96 md:w-96">
+          <div className=" relative bg-gradient-to-b rounded-full w-60 h-60 mt-20 mx-auto from-teal-500 overflow-hidden md:h-96 md:w-96">
             <Image
               alt="SAI KEERTHI "
-              src={dumbun}
+              src={sai_keerthi}
               layout="fill"
               objectFit="cover"
             />
