@@ -131,23 +131,31 @@ export default function Home() {
                 src={design}
                 width={100}
                 height={100}
-                className="mx-auto"
+                className="mx-auto pt-4"
               />
               <h3 className="text-lg font-medium pt-8 pb-2 dark:text-white">
                 Beautiful Designs
               </h3>
-              <p className="py-2 dark:text-gray-500">
+              <p className="py-2 dark:text-gray-500 pl-3 pr-3">
                 Creating elegant designs suited for your needs following core
                 design theory.
               </p>
-              <h4 className="py-4 text-teal-600">Languages I Use</h4>
-              <p className="text-gray-800 py-1 dark:text-gray-500">HTML/Css</p>
+              <h4 className="py-4 text-teal-600 font-bold">Tools I Use</h4>
+
+              <p className="text-gray-800 py-1 dark:text-gray-500">Adobe XD</p>
               <p className="text-gray-800 py-1 dark:text-gray-500">
-                JavaScript
+                Figma /Figjam
               </p>
-              <p className="text-gray-800 py-1 dark:text-gray-500">Flutter</p>
-              <p className="text-gray-800 py-1 pb-2 dark:text-gray-500">
-                React Native
+              <p className="text-gray-800 py-1 dark:text-gray-500">Canva</p>
+              <p className="text-gray-800 py-1 dark:text-gray-500">
+                Adobe Photoshop
+              </p>
+              <p className="text-gray-800 py-1 dark:text-gray-500">
+                Adobe illustrator
+              </p>
+              <p className="text-gray-800 py-1 dark:text-gray-500">Invision</p>
+              <p className="text-gray-800 py-1 pb-8 dark:text-gray-500">
+                Miro/Balsamiq
               </p>
             </div>
             <div className="text-center mb-10 shadow-2xl p10 rounded-xl flex-1 dark:lg:shadow-white">
